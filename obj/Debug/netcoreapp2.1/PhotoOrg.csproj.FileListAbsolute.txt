@@ -1,0 +1,14 @@
+C:\Users\Brian\Documents\dev\repos\PhotoOrg\bin\Debug\netcoreapp2.1\PhotoOrg.deps.json
+C:\Users\Brian\Documents\dev\repos\PhotoOrg\bin\Debug\netcoreapp2.1\PhotoOrg.runtimeconfig.json
+C:\Users\Brian\Documents\dev\repos\PhotoOrg\bin\Debug\netcoreapp2.1\PhotoOrg.runtimeconfig.dev.json
+C:\Users\Brian\Documents\dev\repos\PhotoOrg\bin\Debug\netcoreapp2.1\PhotoOrg.dll
+C:\Users\Brian\Documents\dev\repos\PhotoOrg\bin\Debug\netcoreapp2.1\PhotoOrg.pdb
+C:\Users\Brian\Documents\dev\repos\PhotoOrg\obj\Debug\netcoreapp2.1\PhotoOrg.csprojAssemblyReference.cache
+C:\Users\Brian\Documents\dev\repos\PhotoOrg\obj\Debug\netcoreapp2.1\PhotoOrg.csproj.CoreCompileInputs.cache
+C:\Users\Brian\Documents\dev\repos\PhotoOrg\obj\Debug\netcoreapp2.1\PhotoOrg.RazorAssemblyInfo.cache
+C:\Users\Brian\Documents\dev\repos\PhotoOrg\obj\Debug\netcoreapp2.1\PhotoOrg.RazorAssemblyInfo.cs
+C:\Users\Brian\Documents\dev\repos\PhotoOrg\obj\Debug\netcoreapp2.1\PhotoOrg.AssemblyInfoInputs.cache
+C:\Users\Brian\Documents\dev\repos\PhotoOrg\obj\Debug\netcoreapp2.1\PhotoOrg.AssemblyInfo.cs
+C:\Users\Brian\Documents\dev\repos\PhotoOrg\obj\Debug\netcoreapp2.1\PhotoOrg.RazorTargetAssemblyInfo.cache
+C:\Users\Brian\Documents\dev\repos\PhotoOrg\obj\Debug\netcoreapp2.1\PhotoOrg.dll
+C:\Users\Brian\Documents\dev\repos\PhotoOrg\obj\Debug\netcoreapp2.1\PhotoOrg.pdb

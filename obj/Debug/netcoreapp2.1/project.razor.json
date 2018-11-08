@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "c:\\Users\\Brian\\Documents\\dev\\repos\\PhotoOrg\\PhotoOrg.csproj",
+  "TargetFramework": "netcoreapp2.1",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "MVC-2.1",
+    "LanguageVersion": "2.1",
+    "Extensions": [
+      {
+        "ExtensionName": "MVC-2.1"
+      }
+    ]
+  }
+}
