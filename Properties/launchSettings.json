@@ -17,7 +17,7 @@
         "ASPNETCORE_ENVIRONMENT": "Development"
       }
     },
-    "PhotoOrg": {
+    "PhotoOrgApp": {
       "commandName": "Project",
       "launchBrowser": true,
       "launchUrl": "api/values",
